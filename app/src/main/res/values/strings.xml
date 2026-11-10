@@ -1,0 +1,11 @@
+<resources>
+    <string name="install_selected_app">%1$s 앱을 먼저 설치해 주세요.</string>
+    <string name="selected_stopped_status">%1$s\n재생 안 함: %2$s</string>
+    <string name="target_selected">%1$s 앱을 선택했습니다.</string>
+    <string name="vibration_count">이번 감시의 진동: %1$d / %2$d회</string>
+    <string name="limit_reached">진동 %1$d회 완료 · 배터리 보호를 위해 감시 종료</string>
+    <string name="alert_status">음악 재생 어플 재생 중단 · %1$d초마다 진동</string>
+    <string name="stopped_status">음악 재생 어플 재생 안 함 · %1$d초 후 / %2$d초마다 진동</string>
+    <string name="timing_summary">%1$d초 동안 재생 안 함 → 진동 2번\n계속 멈춰 있으면 %2$d초마다 반복\n재생이 시작되면 진동 중단</string>
+    <string name="permission_status">알림 접근: %1$s   알림 표시: %2$s\n배터리 최적화 예외: %3$s</string>
+</resources>
