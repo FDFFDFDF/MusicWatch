@@ -5,11 +5,11 @@
 
 인터넷 권한과 광고·분석 SDK를 포함하지 않으며, 데이터를 서버로 전송하지 않습니다.
 
-우측 **Releases**에 들어가서 어플을 내려받고, 아래 설치 안내에 따라 설치하세요.
+PC 기준 우측, 모바일 기준 최하단 **Releases**에 들어가서 어플을 내려받고, 아래 설치 안내에 따라 설치하세요.
 
 우리 아가들 노래 많이 사랑해주세요
 
-[![Video Label](http://img.youtube.com/vi/y-klhPVFblg/0.jpg)](https://youtu.be/y-klhPVFblg)
+[![Video Label](https://img.youtube.com/vi/y-klhPVFblg/0.jpg)](https://youtu.be/y-klhPVFblg)
 
 # 음악 재생 어플 지킴이
 
