@@ -9,7 +9,7 @@ PC 기준 우측, 모바일 기준 최하단 **Releases**에 들어가서 어플
 
 우리 아가들 노래 많이 사랑해주세요
 
-[![Video Label](https://img.youtube.com/vi/y-klhPVFblg/0.jpg)](https://youtu.be/y-klhPVFblg)
+[![Video Label](https://cafeptthumb-phinf.pstatic.net/MjAyNjExMDlfMjQg/MDAxNzk0MjA1MDAzNjkz.Qr7V8z9BI4WNBxU02iWT0Dr356xWOPVQ9kVZptXOcgsg.ZG_eBgr8V8kVsw5z5tbPlSiTAJgtYPp3wQ0UvKX-Z0Eg.JPEG/optimize.jpg)](https://youtu.be/y-klhPVFblg)
 
 # 음악 재생 어플 지킴이
 
